@@ -1,5 +1,5 @@
 ## AdvancedWidget3
-* Nama Paket : id.sch.smktelkom_mlg.learn.advancedwidget3
+
 
 ## Identitas
 * Nama  : Arik Nur Khoiriyah
@@ -10,6 +10,6 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i65.tinypic.com/rc9awm.jpg" width="350">
+  <img src="http://i65.tinypic.com/rc9awm.jpg" width="350"><br>
   <img src="http://i65.tinypic.com/rc9awm.jpg" width="350">
 </p>
